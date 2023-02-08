@@ -1,0 +1,10 @@
+"","Algoritmo","input_size","Tiempo","cte_tiempo","Memoria","cte_memoria"
+"1","CopyConsecutive",1000,"372.905",0.372905,"0",0
+"2","CopyConsecutive",10000,"1341.3707",0.13414,"0",0
+"3","CopyConsecutive",20000,"2573.6767",0.128685,"0",0
+"4","CopyConsecutive",30000,"3714.8694",0.12383,"0",0
+"5","CopyConsecutive",100000,"15243.072",0.152431,"0",0
+"6","CopyConsecutive",200000,"31545.6211",0.157727989,"0",0
+"7","CopyConsecutive",300000,"47388.2834",0.157961,"0",0
+"8","CopyConsecutive",400000,"63199.7153",0.15799925,"0",0
+"9","CopyConsecutive",500000,"81072.8425",0.1621456,"0",0
