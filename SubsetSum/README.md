@@ -17,3 +17,4 @@ Finalmente: $g(s) = \sum_{x \in s} x$
 | SubsetSum | 15 |   696,040,023.6 |   797,009.8 | 706,528.4 | 3.2336957790582934 |               936 |       936 |
 | SubsetSum | 16 | 2,184,225,209.2 | 1,111,270.8 | 985,112.6 | 3.1942038047450816 |               936 |       936 |
 
+La complejidad de este algoritmo es $3^n*n$. Por eso es que la entrada es pequeña.
